@@ -1,6 +1,4 @@
 
-name: Dart
-
 name: Build iOS IPA
 
 on:
